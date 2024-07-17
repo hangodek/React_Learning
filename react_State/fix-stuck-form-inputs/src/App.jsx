@@ -34,7 +34,7 @@ export default function App() {
         // value={firstName}
         onChange={handleFirstNameChange}
       />
-      <input className="myInput"
+      <input className="my`Input"
         placeholder="Last name"
         // value={lastName}
         onChange={handleLastNameChange}
