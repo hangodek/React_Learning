@@ -1,0 +1,1 @@
+These two inputs are independent. Make them stay in sync: editing one input should update the other input with the same text, and vice versa.
